@@ -1,0 +1,10 @@
+
+The GATE Data Science and Artificial Intelligence subjects cover a range of topics that are important for understanding and excelling in the field. Some of the key GATE Data Science and Artificial Intelligence subjects included in the syllabus are:
+•	General Aptitude
+•	Probability and Statistics
+•	Linear Algebra
+•	Calculus and Optimization
+•	Programming, Data Structures, and Algorithms
+•	Database Management and Warehousing
+•	Machine Learning
+•	AI (Artificial Intelligence)

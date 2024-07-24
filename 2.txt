@@ -1,0 +1,109 @@
+GATE CSE Syllabus 2025
+
+GATE Syllabus comprises two sections. The first one is the General Aptitude Section which is of 15 marks, and the other one is the Computer Science, and Information Technology Section which is of 85 marks. We have briefly discussed the syllabus of
+
+General Aptitude (GA) – 15 Marks
+Verbal Aptitude	Basic English Grammar: Tenses, Articles, Adjectives, Prepositions, Conjunctions, Verb-noun Agreement, and Other Parts of Speech Basic Vocabulary: Words, Idioms, and Phrases in Context Reading and Comprehension Narrative Sequencing
+Quantitative Aptitude	Data interpretation: Data Graphs (Bar Graphs, Pie Charts, and Other Graphs Representing Data), 2- and 3-dimensional Plots, Maps, and Tables Numerical Computation and Estimation: Ratios, Percentages, Powers, Exponents, Exponents Formula, and Logarithms, Logarithm Formula, Permutations and Combinations, and Series Mensuration and Geometry, Elementary Statistics and Probability
+Analytical Aptitude	Deduction and Induction, Analogy, Numerical Relations, and Reasoning
+Spatial Aptitude	Transformation of shapes: Translation, Rotation, Scaling, Mirroring, Assembling, and Grouping Paper Folding, Cutting, and Patterns in 2 and 3 Dimensions
+Computer Science and Information Technology (CS/IT) – 85 Marks
+
+1. Engineering Mathematics	
+Discrete Mathematics
+Propositional and First-Order Logic 
+Sets, Relations, Functions, Partial Orders, and Lattices 
+Monoids, Groups
+Graphs: Connectivity, Matching, Coloring
+Combinatorics: Counting, Recurrence Relations, Generating Functions 
+Linear Algebra
+Matrices
+Determinants
+System of Linear Equations
+Eigenvalues and Eigenvectors
+LU Decomposition
+Calculus
+Limits, Continuity, and Differentiability
+Maxima and Minima
+Mean Value Theorem
+Integration
+Probability and Statistics
+Random Variables
+Uniform, Normal, Exponential, Poisson, and Binomial Distributions 
+Mean, Median, Mode, and Standard Deviation
+Conditional Probability and Bayes Theorem
+
+
+2. Digital Logic and Design	
+Boolean Algebra
+Combinational and Sequential Circuits
+Minimization
+Number Representations and Computer Arithmetic (Fixed and Floating Point)
+
+
+3. Computer Organization and Architecture	
+Machine Instructions and Addressing Modes.
+ALU, Data Path, and Control Unit.
+Instruction Pipelining, Pipeline Hazards.
+Memory Hierarchy: Cache, Main Memory, and Secondary Storage
+I/O Interface (Interrupt and DMA Mode)
+
+
+4. Programming and Data Structures	
+Programming in C
+Recursion
+Arrays, Stacks, Queues
+Linked Lists, Trees, Binary Search Trees, Binary Heaps
+Graphs
+
+
+5. Algorithms	
+Searching, Sorting, Hashing.
+Asymptotic Worst Case Time and Space Complexity
+Algorithm Design Techniques: Greedy, Dynamic Programming, and Divide-and-Conquer
+Graph Traversals, Minimum Spanning Trees, Shortest Paths
+
+
+6. Theory of Computation	
+Regular Expressions and Finite Automata
+Context-Free Grammar and Push-Down Automata
+Regular and Context-Free Languages, Pumping Lemma
+Turing Machines and Undecidability
+
+
+7. Compiler Design	
+Lexical Analysis
+Parsing, Syntax-Directed Translation
+Runtime Environments 
+Intermediate Code Generation 
+Local Optimization
+Data Flow Analyses: Constant Propagation, Liveness Analysis, Common Subexpression Elimination
+
+
+8. Operating System	
+System Calls, Processes, Threads
+Inter-Process Communication, Concurrency, and Synchronization
+Deadlock
+CPU and I/O Scheduling
+Memory Management and Virtual Memory
+File Systems
+
+
+9. Databases	
+ER-Model
+Relational Model: Relational Algebra, Tuple Calculus
+SQL
+Integrity Constraints, Normal Forms
+File Organization, Indexing (e.g., B and B+ Trees)
+Transactions and Concurrency Control
+
+
+10. Computer Networks	
+Concept of Layering: OSI and TCP/IP Protocol Stacks
+Basics of the Packet, Circuit, and Virtual Circuit Switching
+Data Link Layer: Framing, Error Detection, Medium Access Control, Ethernet Bridging
+Routing Protocols: Shortest Path, Flooding, Distance Vector, and Link State Routing
+Fragmentation and IP Addressing, IPv4, CIDR Notation
+Basics of IP Support Protocols (ARP, DHCP, ICMP), Network Address Translation (NAT)
+Transport Layer: Flow Control and Congestion Control, UDP, TCP, Sockets
+Application Layer Protocols: DNS, SMTP, HTTP, FTP, Email
